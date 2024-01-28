@@ -25,11 +25,11 @@ Briefly describe the dataset created, including:
 
 Link to dataset: [Dataset](<dataset-link>)
 
+
 ## Lexicon
-Discuss the lexicon created as part of the project:
-- Purpose and use-case
-- How it was developed
-- Link to lexicon: [Lexicon](<lexicon-link>)
+At the outset of the NaijaHate project, we curated hate speech lexicons for each of the major Nigerian languages. These lexicons played a crucial role in our data collection process, particularly in the collection of tweets in all the languages. The lexicons are comprehensive and tailored to the linguistic nuances of each language, ensuring effective identification of hate speech.
+
+You can access the lexicons for all the languages in the [Lexicons folder](<link-to-lexicons-folder>).
 
   
 ## Research Paper
