@@ -6,9 +6,8 @@ NaijaHate is a pioneering project aimed at addressing the growing problem of onl
 ## Table of Contents
 - [Project Description](#project-description)
 - [Dataset](#dataset)
-- [Research Paper](#research-paper)
-- [Models](#models)
 - [Lexicon](#lexicon)
+- [Research Paper](#research-paper)
 - [Hugging Face Model Link](#hugging-face-model-link)
 - [Contributing](#contributing)
 - [License](#license)
