@@ -29,7 +29,7 @@ Link to dataset: [Dataset](<dataset-link>)
 ## Lexicon
 At the outset of the NaijaHate project, we curated hate speech lexicons for each of the major Nigerian languages. These lexicons played a crucial role in our data collection process, particularly in the collection of tweets in all the languages. The lexicons are comprehensive and tailored to the linguistic nuances of each language, ensuring effective identification of hate speech.
 
-You can access the lexicons for all the languages in the [Lexicons folder](<link-to-lexicons-folder>).
+You can access the lexicons for all the languages in the [Lexicons folder](https://github.com/smaliyu/NaijaHate/blob/main/Data%20Sampling%20strategy_.pdf).
 
   
 ## Research Paper
