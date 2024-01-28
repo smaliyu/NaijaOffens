@@ -1,3 +1,57 @@
-# NaijaHate
-A project for the creation of Hate speech dataset for the 3 major Nigerian languages
-Online hate is a growing problem in Nigeria, across Africa and the world. It inflicts harm on users who are exposed to it, pollutes and disrupts online communities, and can be a precursor to serious offline harm and violence. Machine Learning Tools for automatically finding and rating the hatefulness of online content can help to address this problem, supporting content moderation efforts, social media monitoring and threat evaluation. However, at present, there is almost no hate detection tools available for any Nigerian language – either in academia or industry. This means that Nigerian users of online services are more likely to not be protected against hate which can severely restrict free expression and open access. We propose addressing this problem by introducing NaijaHate the first labelled dataset for hate in 3 major languages in Nigeria, as well as baseline machine learning models for each language. Through this work, we will investigate the various cultural, linguistic and technical challenges of working across so many diverse and low-resource languages on an inherently subjective concept like hate. 
+# NaijaHate: Hate Speech Detection in Nigerian Languages
+
+## Introduction
+NaijaHate is a pioneering project aimed at addressing the growing problem of online hate speech in Nigeria. This project introduces the first labeled dataset for hate speech detection in three major Nigerian languages. Our goal is to aid in content moderation, social media monitoring, and threat evaluation through machine learning tools.
+
+## Table of Contents
+- [Project Description](#project-description)
+- [Dataset](#dataset)
+- [Research Paper](#research-paper)
+- [Models](#models)
+- [Lexicon](#lexicon)
+- [Hugging Face Model Link](#hugging-face-model-link)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Project Description
+Here, provide a detailed description of the project. Discuss the cultural, linguistic, and technical challenges faced and how this project addresses them.
+
+## Dataset
+Briefly describe the dataset created, including:
+- Languages covered
+- Data collection methodology
+- Data format and access
+
+Link to dataset: [Dataset](<dataset-link>)
+
+## Research Paper
+Provide information about the research paper developed as part of this project:
+- Abstract/Summary
+- Key findings
+- Link to the full paper: [NaijaHate Paper](<paper-link>)
+
+## Models
+Detail the baseline machine learning models developed for each language. Include:
+- Model descriptions
+- Training methodologies
+- Performance metrics
+
+## Lexicon
+Discuss the lexicon created as part of the project:
+- Purpose and use-case
+- How it was developed
+- Link to lexicon: [Lexicon](<lexicon-link>)
+
+## Hugging Face Model Link
+Provide the link to the models hosted on Hugging Face:
+- [Hugging Face Model](<hugging-face-link>)
+
+## Contributing
+Instructions on how others can contribute to the project.
+
+## License
+Specify the license under which this project is released.
+
+## Contact
+Provide contact information for further inquiries.
