@@ -41,10 +41,6 @@ Provide information about the research paper developed as part of this project:
 ## Project Sponsors
 We express our profound gratitude to Data Science Africa for their generous support in funding this project. Their commitment to advancing data science and machine learning across Africa has been instrumental in making NaijaHate a reality. This grant has enabled us to tackle the critical issue of hate speech in Nigerian languages, fostering a safer online environment.
 
-## Hugging Face Model Link
-Provide the link to the models hosted on Hugging Face:
-- [Hugging Face Model](<hugging-face-link>)
-
 ## Contributing
 Instructions on how others can contribute to the project.
 
