@@ -34,7 +34,8 @@ Discuss the lexicon created as part of the project:
   
 ## Research Paper
 
-We have successfully published a paper titled "xxxx" that details the methodologies, findings, and implications of our project. This paper serves as a cornerstone in our efforts to understand and combat online hate speech in Nigerian languages.
+We have successfully published a paper titled "xxxx" that details the methodologies, findings, and implications of our project. This paper serves as a cornerstone in our efforts to understand and combat online hate speech in Nigerian languages. Link to the published paper: [Published Paper](<link-to-published-paper>)
+
 
 We are also excited to announce that we are currently working on a second paper titled "xx", which aims to build upon our initial findings and explore new dimensions of hate speech detection.
 
