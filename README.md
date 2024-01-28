@@ -25,23 +25,19 @@ Briefly describe the dataset created, including:
 
 Link to dataset: [Dataset](<dataset-link>)
 
+## Lexicon
+Discuss the lexicon created as part of the project:
+- Purpose and use-case
+- How it was developed
+- Link to lexicon: [Lexicon](<lexicon-link>)
+
+  
 ## Research Paper
 Provide information about the research paper developed as part of this project:
 - Abstract/Summary
 - Key findings
 - Link to the full paper: [NaijaHate Paper](<paper-link>)
 
-## Models
-Detail the baseline machine learning models developed for each language. Include:
-- Model descriptions
-- Training methodologies
-- Performance metrics
-
-## Lexicon
-Discuss the lexicon created as part of the project:
-- Purpose and use-case
-- How it was developed
-- Link to lexicon: [Lexicon](<lexicon-link>)
 
 ## Hugging Face Model Link
 Provide the link to the models hosted on Hugging Face:
