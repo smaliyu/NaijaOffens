@@ -15,7 +15,8 @@ NaijaHate is a pioneering project aimed at addressing the growing problem of onl
 - [Contact](#contact)
 
 ## Project Description
-#(Here, provide a detailed description of the project. Discuss the cultural, linguistic, and technical challenges faced and how this project addresses them.)
+The Offensive and Hate Speech Detection Project aims to tackle the pervasive issue of offensive and hateful content circulating in Nigeria's digital spaces. Leveraging state-of-the-art Natural Language Processing (NLP) techniques, the project seeks to develop robust algorithms and tools capable of automatically identifying and mitigating instances of hate speech across various languages and dialects spoken in Nigeria.
+
 ### Challenges Faced in Nigeria and the Role of Hate Speech Detection Projects
 
 1. **Cultural Diversity**: Nigeria boasts over 250 ethnic groups, each with distinct languages and customs. This diversity can sometimes lead to tensions exacerbated by offensive or hateful speech. Hate speech detection projects can help identify and mitigate such instances, fostering understanding among Nigeria's diverse population.
