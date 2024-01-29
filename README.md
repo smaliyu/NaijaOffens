@@ -15,21 +15,17 @@ NaijaHate is a pioneering project aimed at addressing the growing problem of onl
 - [Contact](#contact)
 
 ## Project Description
-The Offensive and Hate Speech Detection Project aims to tackle the pervasive issue of offensive and hateful content circulating in Nigeria's digital spaces. Leveraging state-of-the-art Natural Language Processing (NLP) techniques, the project seeks to develop robust algorithms and tools capable of automatically identifying and mitigating instances of hate speech across various languages and dialects spoken in Nigeria.
+The Offensive and Hate Speech Detection Project aims to tackle the pervasive issue of offensive and hateful content circulating in Nigeria's digital spaces. Leveraging state-of-the-art Natural Language Processing (NLP) techniques, the project seeks to develop robust algorithms and tools capable of automatically identifying and mitigating instances of hate speech across the three major languages spoken in Nigeria.
 
 ### Challenges Faced in Nigeria and the Role of Hate Speech Detection Projects
 
-1. **Cultural Diversity**: Nigeria boasts over 250 ethnic groups, each with distinct languages and customs. This diversity can sometimes lead to tensions exacerbated by offensive or hateful speech. Hate speech detection projects can help identify and mitigate such instances, fostering understanding among Nigeria's diverse population.
+1. **Cultural Diversity**: Nigeria boasts over 250 ethnic groups, each with distinct languages and customs. This diversity can sometimes lead to tensions exacerbated by offensive or hateful speech. Offensive and Hate speech detection projects can help identify and mitigate such instances, fostering understanding among Nigeria's diverse population.
 
 2. **Linguistic Variation**: With over 500 languages spoken, linguistic diversity poses a challenge for automated text analysis. Hate speech detection models must accurately identify offensive language across multiple languages and dialects, necessitating development in various Nigerian languages.
 
-3. **Technical Infrastructure**: Challenges in internet penetration and technical infrastructure persist in rural areas. Hate speech detection tools must be accessible to users with limited connectivity or technical expertise, ensuring inclusivity in deployment.
+3. **Legal and Regulatory Framework**: Nigeria has laws against hate speech, but enforcement can be difficult, especially online. Hate speech detection projects can complement legal frameworks by aiding in the identification and reporting of hate speech instances, supporting law enforcement efforts.
 
-4. **Legal and Regulatory Framework**: Nigeria has laws against hate speech, but enforcement can be difficult, especially online. Hate speech detection projects can complement legal frameworks by aiding in the identification and reporting of hate speech instances, supporting law enforcement efforts.
-
-5. **Ethical Considerations**: Hate speech detection projects must navigate ethical issues including privacy, censorship, and bias. Algorithms must be fair, transparent, and culturally sensitive, ensuring that legitimate expression is not suppressed.
-
-In summary, hate speech detection projects can address cultural, linguistic, and technical challenges in Nigeria by fostering understanding, developing accessible tools, supporting legal efforts, and navigating ethical considerations.
+4. **Ethical Considerations**: Hate speech detection projects must navigate ethical issues including privacy, censorship, and bias. Algorithms must be fair, transparent, and culturally sensitive, ensuring that legitimate expression is not suppressed.
 
 ## Dataset
 
