@@ -1,7 +1,7 @@
-# NaijaHate: Hate Speech Detection in Nigerian Languages
+# NaijaHate: Offensive Language and Hate Speech Detection in Nigerian Languages
 
 ## Introduction
-NaijaHate is a pioneering project aimed at addressing the growing problem of online hate speech in Nigeria. This project introduces the first labeled dataset for hate speech detection in three major Nigerian languages. Our goal is to aid in content moderation, social media monitoring, and threat evaluation through machine learning tools.
+NaijaHate is a pioneering project aimed at addressing the growing problem of online offensive and hate speech in Nigeria. This project introduces the first labeled dataset for offensive and hate speech detection in three major Nigerian languages. Our goal is to aid in content moderation, social media monitoring, and threat evaluation through machine learning tools.
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -15,7 +15,20 @@ NaijaHate is a pioneering project aimed at addressing the growing problem of onl
 - [Contact](#contact)
 
 ## Project Description
-Here, provide a detailed description of the project. Discuss the cultural, linguistic, and technical challenges faced and how this project addresses them.
+#(Here, provide a detailed description of the project. Discuss the cultural, linguistic, and technical challenges faced and how this project addresses them.)
+### Challenges Faced in Nigeria and the Role of Hate Speech Detection Projects
+
+1. **Cultural Diversity**: Nigeria boasts over 250 ethnic groups, each with distinct languages and customs. This diversity can sometimes lead to tensions exacerbated by offensive or hateful speech. Hate speech detection projects can help identify and mitigate such instances, fostering understanding among Nigeria's diverse population.
+
+2. **Linguistic Variation**: With over 500 languages spoken, linguistic diversity poses a challenge for automated text analysis. Hate speech detection models must accurately identify offensive language across multiple languages and dialects, necessitating development in various Nigerian languages.
+
+3. **Technical Infrastructure**: Challenges in internet penetration and technical infrastructure persist in rural areas. Hate speech detection tools must be accessible to users with limited connectivity or technical expertise, ensuring inclusivity in deployment.
+
+4. **Legal and Regulatory Framework**: Nigeria has laws against hate speech, but enforcement can be difficult, especially online. Hate speech detection projects can complement legal frameworks by aiding in the identification and reporting of hate speech instances, supporting law enforcement efforts.
+
+5. **Ethical Considerations**: Hate speech detection projects must navigate ethical issues including privacy, censorship, and bias. Algorithms must be fair, transparent, and culturally sensitive, ensuring that legitimate expression is not suppressed.
+
+In summary, hate speech detection projects can address cultural, linguistic, and technical challenges in Nigeria by fostering understanding, developing accessible tools, supporting legal efforts, and navigating ethical considerations.
 
 ## Dataset
 
@@ -28,14 +41,14 @@ Link to dataset: [Dataset](<dataset-link>)
 
 
 ## Lexicon
-At the outset of the NaijaHate project, we curated hate speech lexicons for each of the major Nigerian languages. These lexicons played a crucial role in our data collection process, particularly in the collection of tweets in all the languages. The lexicons are comprehensive and tailored to the linguistic nuances of each language, ensuring effective identification of hate speech.
+At the outset of the NaijaHate project, we curated hate speech lexicons for each of the major Nigerian languages. These lexicons played a crucial role in our data collection process, particularly in the collection of tweets in all the languages. The lexicons are comprehensive and tailored to the linguistic nuances of each language, ensuring effective identification of offensive and hate speech.
 
 You can access the lexicons for all the languages in the [Lexicons folder](https://github.com/smaliyu/NaijaHate/blob/main/Data%20Sampling%20strategy_.pdf).
 
   
 ## Research Paper
 
-We have successfully published a paper titled "xxxx" that details the methodologies, findings, and implications of our project. This paper serves as a cornerstone in our efforts to understand and combat online hate speech in Nigerian languages. Link to the published paper: [Published Paper](<link-to-published-paper>)
+We have successfully published a paper titled "" that details the methodologies, findings, and implications of our project. This paper serves as a cornerstone in our efforts to understand and combat online hate speech in Nigerian languages. Link to the published paper: [Published Paper](<link-to-published-paper>)
 
 
 We are also excited to announce that we are currently working on a second paper titled "xx", which aims to build upon our initial findings and explore new dimensions of hate speech detection.
