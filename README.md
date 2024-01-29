@@ -51,9 +51,9 @@ We have successfully published a paper titled "" that details the methodologies,
 We are also excited to announce that we are currently working on a second paper titled "xx", which aims to build upon our initial findings and explore new dimensions of hate speech detection.
 
 
-## Project Sponsors
+## Project Sponsors 
 We express our profound gratitude to Data Science Africa for their generous support in funding this project. Their commitment to advancing data science and machine learning across Africa has been instrumental in making NaijaHate a reality. This grant has enabled us to tackle the critical issue of hate speech in Nigerian languages, fostering a safer online environment.
 
 
-## Contact
+## Contact ![DSA](C:\Users\My Pc\Documents\GitHub\NaijaHate\DSA_logo.jpg)
 For additional information, inquiries, or collaboration opportunities related to the NaijaHate project, please feel free to reach out to our Project Lead, Saminu Muhammad. He can be contacted via email at [saminualiyu@gmail.com](mailto:saminualiyu@gmail.com). Your interest and support for our initiative are greatly appreciated, and we look forward to engaging with the community.
