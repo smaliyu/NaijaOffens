@@ -34,7 +34,7 @@ The NaijaHate dataset is a dedicated effort to curate a comprehensive dataset fo
 The dataset is freely available for researchers and can be accessed for academic and research purposes. This project aims to promote a safer online environment.
 
 
-Link to dataset: [Dataset](<dataset-link>)
+Link to dataset: [Dataset](https://github.com/smaliyu/NaijaHate/tree/main/Datasets)
 
 
 ## Lexicon
