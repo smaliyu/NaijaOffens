@@ -59,4 +59,4 @@ We express our profound gratitude to Data Science Africa for their generous supp
 
 ## Contact 
 
-For additional information, inquiries, or collaboration opportunities related to the NaijaHate project, please feel free to reach out to our Project Lead, Saminu Muhammad. He can be contacted via email at [saminualiyu@gmail.com](mailto:saminaliyu@gmail.com). Your interest and support for our initiative are greatly appreciated, and we look forward to engaging with the community.
+For additional information, inquiries, or collaboration opportunities related to the NaijaHate project, please feel free to reach out to our Project Lead, Saminu Muhammad. He can be contacted via email at [saminaliyu@gmail.com](mailto:saminaliyu@gmail.com). Your interest and support for our initiative are greatly appreciated, and we look forward to engaging with the community.
