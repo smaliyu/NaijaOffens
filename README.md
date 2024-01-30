@@ -52,7 +52,7 @@ We are also excited to announce that we are currently working on a second paper 
 
 
 ## Project Sponsors 
-![DSA_logo](https://github.com/smaliyu/NaijaHate/assets/21177804/ce296c78-95fc-4f9c-80f9-a1840f35a2a0)
+![DSA logo](DSA_logo.jpg)
 
 We express our profound gratitude to Data Science Africa for their generous support in funding this project. Their commitment to advancing data science and machine learning across Africa has been instrumental in making NaijaHate a reality. This grant has enabled us to tackle the critical issue of hate speech in Nigerian languages, fostering a safer online environment.
 
