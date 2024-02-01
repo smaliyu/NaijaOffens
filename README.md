@@ -37,10 +37,7 @@ The NaijaHate dataset is a dedicated effort to curate a comprehensive dataset fo
 | Igbo      | 5452 |
 | Yoruba    | 5001 |
         
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+
 
 
  By providing this dataset, we aim to facilitate research and development in the field of natural language processing, specifically in the context of hate speech detection in African languages.
