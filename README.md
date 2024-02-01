@@ -29,7 +29,14 @@ The Offensive and Hate Speech Detection Project aims to tackle the pervasive iss
 
 ## Dataset
 
-The NaijaHate dataset is a dedicated effort to curate a comprehensive dataset for hate speech detection across three major Nigerian languages: Hausa, Yoruba, and Igbo. This dataset was collected using the Twitter Academic API.  By providing this dataset, we aim to facilitate research and development in the field of natural language processing, specifically in the context of hate speech detection in African languages.
+The NaijaHate dataset is a dedicated effort to curate a comprehensive dataset for hate speech detection across three major Nigerian languages: Hausa, Yoruba, and Igbo. The datasets wer made up of tweets sollceted from Twitter now X, using the Twitter Academic API. We collected and annotated potentially harmful tweets in the Nigerian social media space. The statistics of annotated tweets per language is shown in the table below
+        | Language | No. of tweets |
+        | --------- | ------------- |
+        | Hausa    | 6697 |
+        | Igbo      | 5452 |
+        | Yoruba    | 5001 |
+
+ By providing this dataset, we aim to facilitate research and development in the field of natural language processing, specifically in the context of hate speech detection in African languages.
 
 The dataset is freely available for researchers and can be accessed for academic and research purposes. This project aims to promote a safer online environment.
 
