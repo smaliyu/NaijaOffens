@@ -7,10 +7,9 @@ NaijaHate is a pioneering project aimed at addressing the growing problem of onl
 - [Project Description](#project-description)
 - [Dataset](#dataset)
 - [Lexicon](#lexicon)
+- [Model Training](#model-training)
 - [Research Paper](#research-paper)
-- [Hugging Face Model Link](#hugging-face-model-link)
 - [Project Sponsors](#project-sponsors)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -53,13 +52,23 @@ At the outset of the NaijaHate project, we curated hate speech lexicons for each
 
 You can access the lexicons for all the languages in the [Lexicons folder](https://github.com/smaliyu/NaijaHate/blob/main/Data%20Sampling%20strategy_.pdf).
 
+## Model Training
+We focused on training four distinct models to analyze tweet datasets in three major Nigerian languages: Hausa, Igbo, and Yoruba. This endeavor involved a standardized PyTorch workflow, complemented by the extensive model repository available on Huggingface. The choice of Huggingface facilitated the use of advanced NLP models, each with its unique architecture but primarily encoder-based, similar to BERT.
+
+To manage our language-specific datasets effectively, we developed a custom dataset class. This class was tailored to the unique characteristics of the Hausa, Igbo, and Yoruba languages, addressing specific text preprocessing and encoding needs. The use of PyTorch’s DataLoader was instrumental in handling the data efficiently in batches, optimizing computational resources.
+
+A critical component of our methodology was leveraging AutoModel and AutoTokenizer classes from Huggingface. These tools enabled us to accommodate various model architectures seamlessly. AutoModel adapted dynamically to each model’s architecture, while AutoTokenizer ensured consistent and appropriate tokenization and encoding of our multilingual text data. This approach was particularly beneficial given the linguistic nuances of Hausa, Igbo, and Yoruba tweets.
+
+The overarching aim of training these models was to distinguish and learn the class-specific features inherent in the tweet datasets of these three languages. By utilizing pretrained models and fine-tuning them on our datasets, we were able to harness pre-existing knowledge and adapt it to the context of Nigerian languages.
+
+Finally, we evaluated the performance of each model on separate test sets for Hausa, Igbo, and Yoruba tweets. This evaluation primarily measured the models' accuracy, offering vital insights into their effectiveness in classifying tweets accurately across these languages.
   
 ## Research Paper
 
 We have successfully published a paper titled "" that details the methodologies, findings, and implications of our project. This paper serves as a cornerstone in our efforts to understand and combat online hate speech in Nigerian languages. Link to the published paper: [Published Paper](<link-to-published-paper>)
 
 
-We are also excited to announce that we are currently working on a second paper titled "xx", which aims to build upon our initial findings and explore new dimensions of hate speech detection.
+We are also excited to announce that have submitted a paper titled "BEYOND ENGLISH: OFFENSIVE LANGUAGE DETECTION IN LOW-RESOURCE AFRICAN LANGUAGES", which aims to build upon our initial findings and explore new dimensions of hate speech detection. Here is the 
 
 
 ## Project Sponsors 
