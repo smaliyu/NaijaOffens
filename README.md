@@ -43,13 +43,13 @@ The NaijaHate dataset is a dedicated effort to curate a comprehensive dataset fo
 The dataset is freely available for researchers and can be accessed for academic and research purposes. This project aims to promote a safer online environment.
 
 
-Link to dataset: [Dataset](https://github.com/smaliyu/NaijaHate/tree/main/Datasets)
+Link to dataset: [Dataset](https://github.com/smaliyu/NaijaOffens/tree/main/Datasets)
 
 
 ## Lexicon
 At the outset of the NaijaHate project, we curated hate speech lexicons for each of the major Nigerian languages. These lexicons played a crucial role in our data collection process, particularly in the collection of tweets in all the languages. The lexicons are comprehensive and tailored to the linguistic nuances of each language, ensuring effective identification of offensive and hate speech.
 
-You can access the lexicons for all the languages in the [Lexicons folder](https://github.com/smaliyu/NaijaHate/tree/main/Lexicons).
+You can access the lexicons for all the languages in the [Lexicons folder](https://github.com/smaliyu/NaijaOffens/tree/main/Lexicons).
 
 ## Model Training
 We focused on training four distinct models to analyze tweet datasets in three major Nigerian languages: Hausa, Igbo, and Yoruba. This endeavor involved a standardized PyTorch workflow, complemented by the extensive model repository available on Huggingface. The choice of Huggingface facilitated the use of advanced NLP models, each with its unique architecture but primarily encoder-based, similar to BERT.
@@ -67,7 +67,7 @@ Finally, we evaluated the performance of each model on separate test sets for Ha
 We have successfully published a paper titled "" that details the methodologies, findings, and implications of our project. This paper serves as a cornerstone in our efforts to understand and combat online hate speech in Nigerian languages. Link to the published paper: [Published Paper](<link-to-published-paper>)
 
 
-We are also excited to announce that have submitted a paper to AfricaNLP2024 conference, titled "BEYOND ENGLISH: OFFENSIVE LANGUAGE DETECTION IN LOW-RESOURCE AFRICAN LANGUAGES",  which aims to build upon our initial findings and explore new dimensions of hate speech detection. Click here to view our [submission](https://github.com/smaliyu/NaijaHate/blob/main/Naija_Offensive.pdf)
+We are also excited to announce that have submitted a paper to AfricaNLP2024 conference, titled "BEYOND ENGLISH: OFFENSIVE LANGUAGE DETECTION IN LOW-RESOURCE AFRICAN LANGUAGES",  which aims to build upon our initial findings and explore new dimensions of hate speech detection. Click here to view our [submission](https://github.com/smaliyu/NaijaOffens/blob/main/Naija_Offensive.pdf)
 
 
 ## Project Sponsors 
