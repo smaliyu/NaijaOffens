@@ -50,7 +50,7 @@ Link to dataset: [Dataset](https://github.com/smaliyu/NaijaHate/tree/main/Datase
 ## Lexicon
 At the outset of the NaijaHate project, we curated hate speech lexicons for each of the major Nigerian languages. These lexicons played a crucial role in our data collection process, particularly in the collection of tweets in all the languages. The lexicons are comprehensive and tailored to the linguistic nuances of each language, ensuring effective identification of offensive and hate speech.
 
-You can access the lexicons for all the languages in the [Lexicons folder](https://github.com/smaliyu/NaijaHate/blob/main/Data%20Sampling%20strategy_.pdf).
+You can access the lexicons for all the languages in the [Lexicons folder](https://github.com/smaliyu/NaijaHate/tree/main/Lexicons).
 
 ## Model Training
 We focused on training four distinct models to analyze tweet datasets in three major Nigerian languages: Hausa, Igbo, and Yoruba. This endeavor involved a standardized PyTorch workflow, complemented by the extensive model repository available on Huggingface. The choice of Huggingface facilitated the use of advanced NLP models, each with its unique architecture but primarily encoder-based, similar to BERT.
