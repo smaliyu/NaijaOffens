@@ -7,7 +7,7 @@ NaijaHate is a pioneering project aimed at addressing the growing problem of onl
 - [Project Description](#project-description)
 - [Dataset](#dataset)
 - [Lexicon](#lexicon)
-- [Model training](#model-training)
+- [Model Training](#model-training)
 - [Research Paper](#research-paper)
 - [Project Sponsors](#project-sponsors)
 - [License](#license)
@@ -68,7 +68,7 @@ Finally, we evaluated the performance of each model on separate test sets for Ha
 We have successfully published a paper titled "" that details the methodologies, findings, and implications of our project. This paper serves as a cornerstone in our efforts to understand and combat online hate speech in Nigerian languages. Link to the published paper: [Published Paper](<link-to-published-paper>)
 
 
-We are also excited to announce that we are currently working on a second paper titled "xx", which aims to build upon our initial findings and explore new dimensions of hate speech detection.
+We are also excited to announce that have submitted a paper titled "BEYOND ENGLISH: OFFENSIVE LANGUAGE DETECTION IN LOW-RESOURCE AFRICAN LANGUAGES", which aims to build upon our initial findings and explore new dimensions of hate speech detection. Here is the 
 
 
 ## Project Sponsors 
