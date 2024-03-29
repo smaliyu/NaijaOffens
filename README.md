@@ -64,10 +64,10 @@ Finally, we evaluated the performance of each model on separate test sets for Ha
   
 ## Research Paper
 
-We have successfully published a paper titled "" that details the methodologies, findings, and implications of our project. This paper serves as a cornerstone in our efforts to understand and combat online hate speech in Nigerian languages. Link to the published paper: [Published Paper](<link-to-published-paper>)
+We have successfully published a paper titled "HERDPhobia: A Dataset for Hate Speech against Fulani in Nigeria" a preliminary study conducted to detect hate speech against one of the tribes in Nigeria mostly engaged in normadic activities. This paper serves as a cornerstone in our efforts to understand and combat online hate speech in Nigerian languages. Link to the published paper: [Published Paper](https://arxiv.org/pdf/2211.15262.pdf)
 
 
-We are also excited to announce that have submitted a paper to AfricaNLP2024 conference, titled "BEYOND ENGLISH: OFFENSIVE LANGUAGE DETECTION IN LOW-RESOURCE AFRICAN LANGUAGES",  which aims to build upon our initial findings and explore new dimensions of hate speech detection. Click here to view our [submission](https://github.com/smaliyu/NaijaOffens/blob/main/Naija_Offensive.pdf)
+We are also excited to announce that have submitted a paper to AfricaNLP2024 conference, titled "BEYOND ENGLISH: OFFENSIVE LANGUAGE DETECTION IN LOW-RESOURCE NIGERIAN LANGUAGES",  which aims to build upon our initial findings and explore new dimensions of hate speech detection. Click here to view our [submission](https://github.com/smaliyu/NaijaOffens/blob/main/Naija_Offensive.pdf)
 
 
 ## Project Sponsors 
